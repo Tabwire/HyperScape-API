@@ -1,0 +1,15 @@
+{
+    "platform": "uplay",
+    "searchq": "baiier",
+    "players": {
+        "9bd44bde-9c48-48ae-9c2b-4e11e4b16083": {
+            "profile": {
+                "p_id": "9bd44bde-9c48-48ae-9c2b-4e11e4b16083",
+                "p_name": "BaIIer",
+                "p_user": "9bd44bde-9c48-48ae-9c2b-4e11e4b16083",
+                "p_platform": "uplay",
+                "verified": false
+            }
+        }
+    }
+}

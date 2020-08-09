@@ -1,0 +1,65 @@
+{
+    "found": true,
+    "player": {
+        "p_id": "43eccd4d-1fb4-47b7-bfe5-5167fa48a945",
+        "p_user": "43eccd4d-1fb4-47b7-bfe5-5167fa48a945",
+        "p_name": "nuuqez",
+        "p_platform": "uplay"
+    },
+    "custom": {
+        "p_verified": false,
+        "p_visitors": 10
+    },
+    "refresh": {
+        "utime": 1596993879
+    },
+    "data": {
+        "stats": {
+            "wins": 61,
+            "crown_wins": 1,
+            "damage": 17793,
+            "assists": 689,
+            "matches": 86,
+            "chests_broken": 145,
+            "crown_pickups": 7,
+            "damage_done": 116480,
+            "final_blows": 702,
+            "fusions": 1222,
+            "last_rank": 1,
+            "revives": 78,
+            "time_played": "09:21 mins",
+            "solo_crown_wins": 0,
+            "squad_crown_wins": 1,
+            "solo_last_rank": 1,
+            "squad_last_rank": 1,
+            "solo_time_played": "15:24 mins",
+            "squad_time_played": "53:57 mins",
+            "solo_matches": 1,
+            "squad_matches": 85,
+            "solo_wins": 1,
+            "squad_wins": 60,
+            "careerbest_fused_to_max": 7,
+            "careerbest_chests": 7,
+            "careerbest_shockwaved": 2,
+            "careerbest_damage_done": 3174,
+            "careerbest_revealed": 2,
+            "careerbest_assists": 19,
+            "careerbest_damage_shielded": 3719,
+            "careerbest_long_range_final_blows": 1,
+            "careerbest_short_range_final_blows": 9,
+            "careerbest_final_blows": 17,
+            "careerbest_item_fused": 35,
+            "careerbest_critical_damage": 665,
+            "careerbest_survival_time": 982,
+            "careerbest_healed": 1084,
+            "careerbest_revives": 6,
+            "losses": 25,
+            "solo_losses": 0,
+            "squad_losses": 25,
+            "winrate": "70.93%",
+            "solo_winrate": "100.00%",
+            "squad_winrate": "70.59%",
+            "crown_pick_success_rate": "14.29%"
+        }
+    }
+}
