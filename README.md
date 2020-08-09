@@ -63,7 +63,7 @@ An example of a player ID is: <i>**43eccd4d-1fb4-47b7-bfe5-5167fa48a945**</i>
 
 Example: https://hypers.apitab.com/player/43eccd4d-1fb4-47b7-bfe5-5167fa48a945?u=89031276
 
-Example response: <u>[Click Here](https://https://github.com/Tabwire/HyperScape-API/blob/master/responses/playerdatabyid.json)</u>
+Example response: <u>[Click Here](https://github.com/Tabwire/HyperScape-API/blob/master/responses/playerdatabyid.json)</u>
 
 <hr>
 
